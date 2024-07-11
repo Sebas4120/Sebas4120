@@ -4,9 +4,7 @@
 
 🌱 I’m currently learning blockchain programming in finance and programming.
 
-📫 How to reach me:
+📫 How to contact me:
     You can contact me through my email -> sebastianaguirrem49@gmail.com
-
-✨ My best project so far is:
     
     
