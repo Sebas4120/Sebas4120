@@ -7,7 +7,7 @@
 📫 How to contact me:
     You can contact me through my email -> sebastianaguirrem49@gmail.com
 
-My last recognized project you can download it here:
+>> My latest recognized project you can download it here:
     https://georgiancollege-my.sharepoint.com/:u:/g/personal/200558953_student_georgianc_on_ca/EVtcB9VdHnhEsU4T-QdcjxABSyBLlD9KJlz7xbri0q-fLg?e=1jk2zz
     
-    
+Note: The client asked for a simple and easy-to-understand design, he didn't want a lot of colors, just a GUI that he can understand quickly. Also, we added the instructions by clicking on a button (!)    
